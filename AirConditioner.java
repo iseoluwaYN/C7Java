@@ -4,7 +4,7 @@ public class AirConditioner{
 	private String productName;
 	private int teperature;
 
-		public static void main(String.. args) {
+		public static void main(String[] args) {
 
 			public void Temperature(int temperature){
 				}
